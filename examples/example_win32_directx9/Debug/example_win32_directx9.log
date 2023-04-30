@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Insult\Desktop\imgui-feature-hidpi-support\examples\example_win32_directx9\main.cpp(250,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Insult\Desktop\imgui-feature-hidpi-support\examples\example_win32_directx9\main.cpp(252,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Insult\Desktop\imgui-feature-hidpi-support\examples\example_win32_directx9\main.cpp(268,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Insult\Desktop\imgui-feature-hidpi-support\examples\example_win32_directx9\main.cpp(114,10): warning C4189: show_another_window: локальная переменная инициализирована, но не использована
+  example_win32_directx9.vcxproj -> C:\Users\Insult\Desktop\imgui-feature-hidpi-support\examples\example_win32_directx9\Debug\example_win32_directx9.exe
